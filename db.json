@@ -1,9 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro",
+      "category": "Eletrônicos",
+      "price": "7.999,00",
+      "quantity": 25,
+      "minQuantity": 5
+    },
+    {
+      "id": "2",
+      "name": "Camiseta Básica",
+      "category": "Roupas",
+      "price": "49,90",
+      "quantity": 8,
+      "minQuantity": 10
+    },
+    {
+      "id": "3",
+      "name": "Arroz Integral 5kg",
+      "category": "Alimentos",
+      "price": "32,50",
+      "quantity": 0,
+      "minQuantity": 20
+    },
+    {
+      "name": "Celular 1",
+      "category": "Eletrônicos",
+      "price": "4001,00",
+      "quantity": 11,
+      "minQuantity": 10,
+      "id": "5c98"
+    },
+    {
+      "name": "Celular 2",
+      "category": "Eletrônicos",
+      "price": "5000,00",
+      "quantity": 20,
+      "minQuantity": 3,
+      "id": "Cgxh78_"
+    }
+  ]
 }
