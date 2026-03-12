@@ -1,44 +1,44 @@
 {
   "products": [
     {
-      "id": "1",
-      "name": "iPhone 15 Pro",
-      "category": "Eletrônicos",
-      "price": "7.999,00",
-      "quantity": 25,
-      "minQuantity": 5
+      "name": "Teste",
+      "category": "monitores",
+      "price": 200,
+      "quantity": 1,
+      "minQuantity": 5,
+      "id": 1
     },
     {
-      "id": "2",
-      "name": "Camiseta Básica",
-      "category": "Roupas",
-      "price": "49,90",
-      "quantity": 8,
-      "minQuantity": 10
+      "name": "Aaaaa",
+      "category": "computadores",
+      "price": 505.29,
+      "quantity": 10,
+      "minQuantity": 5,
+      "id": 2
     },
     {
-      "id": "3",
-      "name": "Arroz Integral 5kg",
-      "category": "Alimentos",
-      "price": "32,50",
+      "name": "Bbbbbb",
+      "category": "perifericos",
+      "price": 85.55,
+      "quantity": 1,
+      "minQuantity": 5,
+      "id": 3
+    },
+    {
+      "name": "Ccccc",
+      "category": "computadores",
+      "price": 12,
+      "quantity": 5,
+      "minQuantity": 20,
+      "id": 4
+    },
+    {
+      "name": "Ddddd",
+      "category": "perifericos",
+      "price": 24.99,
       "quantity": 0,
-      "minQuantity": 20
-    },
-    {
-      "name": "Celular 1",
-      "category": "Eletrônicos",
-      "price": "4001,00",
-      "quantity": 11,
-      "minQuantity": 10,
-      "id": "5c98"
-    },
-    {
-      "name": "Celular 2",
-      "category": "Eletrônicos",
-      "price": "5000,00",
-      "quantity": 20,
-      "minQuantity": 3,
-      "id": "Cgxh78_"
+      "minQuantity": 15,
+      "id": 5
     }
   ]
 }
